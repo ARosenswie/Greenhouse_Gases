@@ -1,4 +1,4 @@
-# Visualizeing Greenhouse Gases
+# Visualizing Greenhouse Gases
 Plotted greenhouse gases provided from Palmer Station, Antarctica, United States.
 
 In specific, plotted are the carbon cycle gas species with their citations:
