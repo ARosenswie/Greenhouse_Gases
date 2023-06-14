@@ -1,5 +1,5 @@
 # Visualizing Greenhouse Gases
-Plotted greenhouse gases from flask samples provided from Palmer Station, Antarctica, United States.
+Plotted greenhouse gases from flask samples provided from Palmer Station, Antarctica, United States. This notebook shows a brief introduction into plotting observed atmospheric data.
 
 ![Plot](plot.png)
 
